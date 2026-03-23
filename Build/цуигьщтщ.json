@@ -1,0 +1,17 @@
+{
+"companyName": "ShadowMunciGames",
+"productName": "pneumonoultramicroscopicsilicovolcanoconiosis",
+"productVersion": "1.0.0",
+"dataUrl": "цуигьщтщ.data.unityweb",
+"wasmCodeUrl": "цуигьщтщ.wasm.code.unityweb",
+"wasmFrameworkUrl": "цуигьщтщ.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "цуигьщтщ.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.8f1"
+}
